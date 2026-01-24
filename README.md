@@ -25,4 +25,4 @@ Ireland | Tel. +353 1 2305059
 
 ---
 
-For information about this web page, contact frbrendan@pctireland.com
+For information about this web page, contact safeguarding@pctireland.com
