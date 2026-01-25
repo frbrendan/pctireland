@@ -1,6 +1,6 @@
 # Opus Dei Prelature Charitable Trust in Ireland
 
-This is the home page for the Prelature Charitable Trust (pctireland.com)
+This is a base page for the domain (pctireland.com) of the Prelature Charitable Trust, which supports the apostolic work of the North-West Region of the Prelature of Opus Dei.
 
 ---
 
