@@ -1,6 +1,6 @@
 # Opus Dei Prelature Charitable Trust in Ireland
 
-This is the home page for the web domain (pctireland.com) of the Prelature Charitable Trust, which supports the apostolic work of the North-West Region of the Prelature of Opus Dei.
+This is the home page for the Prelature Charitable Trust (pctireland.com)
 
 ---
 
@@ -25,4 +25,8 @@ Ireland | Tel. +353 1 2305059
 
 ---
 
+### Privacy Policy
+The applicble privacy policy may consulted at https://www.nwepolicy.net/privacy
+
+### Contact
 For information about this web page, contact safeguarding@pctireland.com
