@@ -26,7 +26,7 @@ Ireland | Tel. +353 1 2305059
 ---
 
 ### Privacy Policy
-The applicble privacy policy may consulted at https://www.nwepolicy.net/privacy
+The applicable privacy policy may consulted at https://www.nwepolicy.net/privacy
 
 ### Contact
 For information about this web page, contact safeguarding@pctireland.com
